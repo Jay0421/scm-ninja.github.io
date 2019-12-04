@@ -1,2 +1,3 @@
-please update all folder
+Please update all folder
 Every files updated and merged
+Discard changes in working directory
