@@ -14,9 +14,9 @@ print(list_end(a = [5, 10, 15, 20, 25]))
 
 # 2
 
-def area(n):
+def area(r):
     pi = 3.14
-    area = n * pi**2
+    area = r * pi**2
     return area
 
 print(area(5))
